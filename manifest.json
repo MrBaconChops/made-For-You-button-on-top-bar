@@ -1,1 +1,11 @@
 
+[
+  {
+    "name": "Made For You Button",
+    "description": "Adds a heart button beside Home in Spotify's top bar to open the Made For You page.",
+    "preview": "preview.png",
+    "main": "madeForYou.js",
+    "readme": "README.md",
+    "tags": ["topbar", "navigation", "made-for-you"]
+  }
+]
